@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_8380eb4b-5259-44b1-8264-e4688bd0897d
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd SAPO3D_basecolor.PNG
+map_Ns SAPO3D_roughness.PNG
+map_Pr SAPO3D_roughness.PNG
+map_refl SAPO3D_metallic.PNG
+map_Pm SAPO3D_metallic.PNG
+map_Bump -bm 1.000000 SAPO3D_normal.PNG

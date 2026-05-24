@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_abd284ff-4090-4a72-922a-c75993b35e55
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pandacharacter3dmodel_basecolor.PNG
+map_Ns pandacharacter3dmodel_roughness.PNG
+map_Pr pandacharacter3dmodel_roughness.PNG
+map_refl pandacharacter3dmodel_metallic.PNG
+map_Pm pandacharacter3dmodel_metallic.PNG
+map_Bump -bm 1.000000 pandacharacter3dmodel_normal.PNG
