@@ -49,10 +49,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.4.7f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ErbGameArt\Fantasy effects pack\Demo scene\CameraHolder.cs" />
     <Compile Include="Assets\SCRIPT\PlayerController.cs" />
+    <Compile Include="Assets\SCRIPT\EffectOnClick.cs" />
     <Compile Include="Assets\SCRIPT\CameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\ErbGameArt\Fantasy effects pack\Scripts\ParticleCollisionInstance.cs" />
+    <Compile Include="Assets\ErbGameArt\Fantasy effects pack\Scripts\ColliderTurnOff.cs" />
     <Compile Include="Assets\FantasyEnvironments\Environments\Town\Scripts\Door.cs" />
+    <Compile Include="Assets\ErbGameArt\Fantasy effects pack\Scripts\ProjectorMaterialChanger.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Shaders\Projector_add_FCW.shader" />
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Demo scene\Readme.txt" />
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Shaders\ManaWall.shader" />
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Shaders\WaterOrb.shader" />
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Shaders\Projector_blend_FCW.shader" />
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Shaders\Blend_CenterGlow.shader" />
+    <None Include="Assets\ErbGameArt\Fantasy effects pack\Shaders\Add_CenterGlow.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

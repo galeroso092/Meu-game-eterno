@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_83f7e537-7c5f-4771-8474-f1af6525e9ab
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bambooflute3dmodel_basecolor.PNG
+map_Ns bambooflute3dmodel_roughness.PNG
+map_Pr bambooflute3dmodel_roughness.PNG
+map_refl bambooflute3dmodel_metallic.PNG
+map_Pm bambooflute3dmodel_metallic.PNG
+map_Bump -bm 1.000000 bambooflute3dmodel_normal.PNG
